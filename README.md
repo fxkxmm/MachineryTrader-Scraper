@@ -1,10 +1,8 @@
 # TruckerPaper-MachineryTrader-TractorHouse-Scraper
 
-Get insight about the machinery product by scraping Truck Paper, Tractor House, United Rental etc.
+Get insight about the machinery product by scraping machineryTrader.
 
-Truck Paper is the trucking industry's leading marketplace for quality new and used trucks, trailers, and buses from such popular manufacturers as Ford, Freightliner, International, Kenworth, Mack, Volvo, Western Star, Utility, Wabash National, and many others.
-
-TractorHouse.com is the go-to source for buying and selling new & used Farm Equipment. Buyers can find a full range of Tractors
+The objective of this project is to scrape machineryTrader for new/used Construction equipment and extract equipment details such as price, model, make, auction date etc. Various analysis or trend can be drawn from the data.
 
 MachineryTrader.com is the go-to source for buying and selling new & used Construction Equipment. Buyers can find a full range of Skid Steers.
 
